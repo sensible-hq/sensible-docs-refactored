@@ -1,5 +1,5 @@
 ---
-title: TEST PAGE
+title: TEST PAGE v1.0_test
 excerpt: >-
   This page will help you get started with sensible-test. You'll be up and
   running in a jiffy!
