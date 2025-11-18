@@ -30,7 +30,7 @@ excerpt: >
 
   see the `GET /documents/{id}` endpoint.
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: get-excel-extraction
 hidden: false
 ---

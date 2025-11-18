@@ -8,7 +8,7 @@ excerpt: >-
   extractions](metrics). For more information about the returned
   `coverage_histogram`, see the response model.
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: statistics
 hidden: false
 ---

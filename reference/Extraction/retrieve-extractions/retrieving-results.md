@@ -16,7 +16,7 @@ excerpt: >
   `parsed_document` field.  For fields in the extraction for which Sensible
   couldn't find a value, Sensible returns null.
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: retrieving-results
 hidden: false
 ---

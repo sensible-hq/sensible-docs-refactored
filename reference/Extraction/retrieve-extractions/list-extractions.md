@@ -18,7 +18,7 @@ excerpt: >
 
   Use the `limit` parameter to configure page size. 
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: list-extractions
 hidden: false
 ---
