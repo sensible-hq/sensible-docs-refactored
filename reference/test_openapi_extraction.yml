@@ -29,7 +29,9 @@ paths:
       summary: Extract data from a document (sync)
       description: >
 
-        **Note:** TEST GH v1.0 direct Use this endpoint when testing. Use the asynchronous
+        **Note:** TEST GH v1.0
+        TEST 1041 direct to v1.0 from GH
+        direct Use this endpoint when testing. Use the asynchronous
         extraction endpoints when in production.
 
 
