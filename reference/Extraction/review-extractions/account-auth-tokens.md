@@ -48,7 +48,7 @@ excerpt: >
 
   ```
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: account-auth-tokens
 hidden: false
 ---

@@ -35,7 +35,7 @@ excerpt: >
 
   see [Try asynchronous extraction from your URL](doc:api-tutorial-async-1).
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: provide-a-download-url
 hidden: false
 ---

@@ -60,7 +60,7 @@ excerpt: >
   [Try asynchronous extraction from a Sensible
   URL](https://docs.sensible.so/docs/api-tutorial-async-2).
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: generate-an-upload-url
 hidden: false
 ---

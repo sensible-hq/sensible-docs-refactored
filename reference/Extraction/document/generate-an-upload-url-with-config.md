@@ -6,7 +6,7 @@ excerpt: >
   the specified config to extract data from the document instead of
   automatically choosing the best-scoring extraction in the document type.
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: generate-an-upload-url-with-config
 hidden: false
 ---

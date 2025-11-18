@@ -20,7 +20,7 @@ excerpt: >
   For more about extracting from portfolios, see [Multi-document
   extractions](doc:portfolio).
 api:
-  file: openapi_extraction.yml
+  file: test_openapi_extraction.json
   operationId: provide-a-download-url-for-a-pdf-portfolio
 hidden: false
 ---
