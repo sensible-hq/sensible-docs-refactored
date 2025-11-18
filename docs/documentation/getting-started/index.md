@@ -5,6 +5,8 @@ excerpt: >-
   running in a jiffy!
 hidden: false
 ---
+force sync webapp 1244
+
 # Welcome to ReadMe
 
 Welcome to your new developer hub—AI-powered, Git-backed, and built to help your docs evolve with your product.
@@ -111,3 +113,5 @@ Want to know how developers are actually using your API and docs?
 ## 💬 Need Help?
 
 Our team is here to support you. If you get stuck, [email us](mailto:support@readme.io) or open the Intercom widget on any page to chat with someone from our team. We've also got a <Anchor label="Slack community" target="_blank" href="https://readme.com/slack">Slack community</Anchor> if you want to say hi to the team and connect with other ReadMe users!
+
+fr
