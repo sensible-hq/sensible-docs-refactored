@@ -9,7 +9,7 @@ force sync webapp 1244
 
 froce sync webapp 1601
 
-webapp: [bad doc linke](doc:null). 
+webapp: [bad doc link](doc:null). 
 
 # Welcome to ReadMe
 
